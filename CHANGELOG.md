@@ -1,4 +1,4 @@
-## 1.0.0
+## 0.1.0
 
 - IBAN validation and formatting for all six GCC countries.
 - Saudi national ID and Iqama validation with holder type detection.
