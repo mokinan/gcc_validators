@@ -1,0 +1,20 @@
+name: gcc_validators
+description: >-
+  Validation and normalization for GCC identifiers: IBAN, Saudi national ID and
+  Iqama, Emirates ID, mobile numbers and VAT numbers. Pure Dart, Arabic-digit aware.
+version: 1.0.0
+repository: https://github.com/mokinan/gcc_validators
+issue_tracker: https://github.com/mokinan/gcc_validators/issues
+topics:
+  - validation
+  - iban
+  - forms
+  - saudi-arabia
+  - uae
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
